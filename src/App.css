@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'determination-regular-webfont';
+  font-style: normal;
+  font-weight: normal;
+  src:local('determination-regular-webfont'), url('determination-regular-webfont.woff') format('woff');
+}
+
+h1{
+  font-family: 'determination-regular-webfont';
+}
